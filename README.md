@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=RohitTanga&style=flat-square&color=6e40c9&label=PROFILE+VIEWS)
+
 
 # Rohit Tanga
 

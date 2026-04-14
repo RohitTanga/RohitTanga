@@ -4,7 +4,7 @@
 
 # Rohit Tanga
 
-**B.Tech ECE · IIIT Kottayam &nbsp;|&nbsp; MS AI & Data Intelligence · SJSU (Fall 2026)**
+**B.Tech ECE · IIIT Kottayam &nbsp;
 
 📍 Hyderabad, India &nbsp;·&nbsp; 📧 rohit.tanga8186@gmail.com
 
@@ -16,7 +16,6 @@
 
 - 🚀 Building [**CraftMyPitch**](https://craftmypitch.co) — AI proposal writer for freelancers
 - 🤖 Deep into NLP: BERT, RoBERTa, transformers
-- 🏍️ Motorcyclist · drama director · hiker
 
 ---
 
@@ -63,22 +62,10 @@ AI-powered proposal writer built for freelancers — generates tailored, high-co
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitTanga&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=6e40c9&text_color=8b949e&rank_icon=github)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=RohitTanga&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitTanga&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6)
-
-</div>
 
 ---
 
-<div align="center">
 
-*B.Tech ECE · IIIT Kottayam (2021–2025) &nbsp;·&nbsp; MS AI & Data Intelligence · SJSU (Fall 2026)*
+
 
 </div>

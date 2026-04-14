@@ -4,7 +4,7 @@
 
 # Rohit Tanga
 
-**B.Tech ECE · IIIT Kottayam &nbsp;
+B.Tech ECE · IIIT Kottayam &nbsp;
 
 📍 Hyderabad, India &nbsp;·&nbsp; 📧 rohit.tanga8186@gmail.com
 

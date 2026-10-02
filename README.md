@@ -16,6 +16,7 @@ M.S. Applied Data Intelligence @ San Jose State University &nbsp;·&nbsp; B.Tech
 - 🚀 Building [**CraftMyPitch**](https://craftmypitch.co) — AI proposal writer for freelancers
 - 🤝 Built [**Resolve**](https://github.com/RohitTanga/Resolve) — an FSM-driven AI agent for credit-recovery conversations
 - 🤖 Deep into NLP & LLMs: BERT, RoBERTa, transformer fine-tuning, agentic systems
+- 🗄️ Running **PostgreSQL** in production for CraftMyPitch's billing system
 
 ---
 
@@ -23,7 +24,7 @@ M.S. Applied Data Intelligence @ San Jose State University &nbsp;·&nbsp; B.Tech
 
 > **[craftmypitch.co](https://craftmypitch.co)**
 
-AI-powered proposal writer built for freelancers — generates tailored, high-converting pitches in seconds.
+AI-powered proposal writer built for freelancers — generates tailored, high-converting pitches in seconds. Backed by a PostgreSQL-powered credit and billing system.
 
 ---
 
@@ -60,6 +61,7 @@ BERT-based toxicity classifier trained on 1.3M+ questions, 98% accuracy. `Python
 **Data, Backend & Integrations**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)

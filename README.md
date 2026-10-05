@@ -16,7 +16,7 @@ M.S. Applied Data Intelligence @ San Jose State University &nbsp;·&nbsp; B.Tech
 - 🚀 Building [**CraftMyPitch**](https://craftmypitch.co) — AI proposal writer for freelancers
 - 🤝 Built [**Resolve**](https://github.com/RohitTanga/Resolve) — an FSM-driven AI agent for credit-recovery conversations
 - 🤖 Deep into NLP & LLMs: BERT, RoBERTa, transformer fine-tuning, agentic systems
-- 🗄️ Running **PostgreSQL** in production for CraftMyPitch's billing system
+- 🗄️ Running **PostgreSQL** in production for CraftMyPitch's billing system — deepening SQL further through SJSU coursework + Kaggle
 
 ---
 
@@ -33,7 +33,7 @@ AI-powered proposal writer built for freelancers — generates tailored, high-co
 **[Resolve](https://github.com/RohitTanga/Resolve)**
 FSM-driven AI credit-recovery agent — context-aware conversations over WhatsApp that adapt to session state and detect borrower emotional cues. `React` `FastAPI` `Claude API` `Twilio`
 
-**Stock Sentiment Analysis**
+**[Stock Sentiment Analysis](https://github.com/RohitTanga/TickerPulse-Stock-News-Sentiment-Intelligence)**
 BERT-based financial news sentiment model with automated weekly retraining and a FastAPI inference service deployed on Heroku. `PyTorch` `spaCy` `Docker` `MLflow` `Airflow`
 
 **[Quora Toxic Content Classification](https://github.com/RohitTanga/Classification-of-Quora-Questions-on-the-basis-of-Toxicity)**
